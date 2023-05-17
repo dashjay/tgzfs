@@ -7,8 +7,8 @@ import (
 	"os"
 	"os/signal"
 	"syscall"
-	"tgzfs/pkg/fusefs"
 
+	"github.com/dashjay/tgzfs/pkg/fusefs"
 	"github.com/jacobsa/fuse"
 )
 

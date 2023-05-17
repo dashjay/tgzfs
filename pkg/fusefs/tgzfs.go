@@ -12,8 +12,8 @@ import (
 	"sort"
 	"strconv"
 	"strings"
-	"tgzfs/pkg/types"
 
+	"github.com/dashjay/tgzfs/pkg/types"
 	"github.com/jacobsa/fuse"
 	"github.com/jacobsa/fuse/fuseops"
 	"github.com/jacobsa/fuse/fuseutil"

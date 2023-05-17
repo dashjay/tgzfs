@@ -1,4 +1,4 @@
-module tgzfs
+module github.com/dashjay/tgzfs
 
 go 1.19
 
